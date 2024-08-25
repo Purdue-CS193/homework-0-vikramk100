@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Vikram Kavalipati's First CS 193 Homework
 
-# Favorite THings About CS 193
+# Favorite Things About CS 193
 
 - I learned about GitHub
 - It is taught by other students
