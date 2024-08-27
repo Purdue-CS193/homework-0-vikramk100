@@ -19,8 +19,8 @@ Syntax highlighted code block
 - It is taught by other students
 - It is a fun class
 
-1. Numbered
-2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
